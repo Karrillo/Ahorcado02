@@ -1,0 +1,28 @@
+c:\users\carrillo\documents\visual studio 2013\Projects\Proyecto2_CarrilloJose\Proyecto2_CarrilloJose\bin\Debug\Proyecto2_CarrilloJose.exe.config
+c:\users\carrillo\documents\visual studio 2013\Projects\Proyecto2_CarrilloJose\Proyecto2_CarrilloJose\bin\Debug\Proyecto2_CarrilloJose.exe
+c:\users\carrillo\documents\visual studio 2013\Projects\Proyecto2_CarrilloJose\Proyecto2_CarrilloJose\bin\Debug\Proyecto2_CarrilloJose.pdb
+c:\users\carrillo\documents\visual studio 2013\Projects\Proyecto2_CarrilloJose\Proyecto2_CarrilloJose\bin\Debug\Proyecto2_CarrilloJose.xml
+c:\users\carrillo\documents\visual studio 2013\Projects\Proyecto2_CarrilloJose\Proyecto2_CarrilloJose\obj\Debug\Proyecto2_CarrilloJose.Resources.resources
+c:\users\carrillo\documents\visual studio 2013\Projects\Proyecto2_CarrilloJose\Proyecto2_CarrilloJose\obj\Debug\Proyecto2_CarrilloJose.vbproj.GenerateResource.Cache
+c:\users\carrillo\documents\visual studio 2013\Projects\Proyecto2_CarrilloJose\Proyecto2_CarrilloJose\obj\Debug\Proyecto2_CarrilloJose.exe
+c:\users\carrillo\documents\visual studio 2013\Projects\Proyecto2_CarrilloJose\Proyecto2_CarrilloJose\obj\Debug\Proyecto2_CarrilloJose.xml
+c:\users\carrillo\documents\visual studio 2013\Projects\Proyecto2_CarrilloJose\Proyecto2_CarrilloJose\obj\Debug\Proyecto2_CarrilloJose.pdb
+c:\users\carrillo\documents\visual studio 2013\Projects\Proyecto2_CarrilloJose\Proyecto2_CarrilloJose\obj\Debug\Proyecto2_CarrilloJose.Cargar_Palabras.resources
+c:\users\carrillo\documents\visual studio 2013\Projects\Proyecto2_CarrilloJose\Proyecto2_CarrilloJose\obj\Debug\Proyecto2_CarrilloJose.Juego.resources
+c:\users\carrillo\documents\visual studio 2013\Projects\Proyecto2_CarrilloJose\Proyecto2_CarrilloJose\obj\Debug\Proyecto2_CarrilloJose.Proyecto.resources
+C:\Users\Carrillo\Desktop\Proyecto2_CarrilloJose\Proyecto2_CarrilloJose\bin\Debug\Proyecto2_CarrilloJose.exe.config
+C:\Users\Carrillo\Desktop\Proyecto2_CarrilloJose\Proyecto2_CarrilloJose\obj\Debug\Proyecto2_CarrilloJose.exe
+C:\Users\Carrillo\Desktop\Proyecto2_CarrilloJose\Proyecto2_CarrilloJose\obj\Debug\Proyecto2_CarrilloJose.xml
+C:\Users\Carrillo\Desktop\Proyecto2_CarrilloJose\Proyecto2_CarrilloJose\obj\Debug\Proyecto2_CarrilloJose.pdb
+C:\Users\Carrillo\Desktop\Proyecto2_CarrilloJose\Proyecto2_CarrilloJose\bin\Debug\Proyecto2_CarrilloJose.exe
+C:\Users\Carrillo\Desktop\Proyecto2_CarrilloJose\Proyecto2_CarrilloJose\bin\Debug\Proyecto2_CarrilloJose.pdb
+C:\Users\Carrillo\Desktop\Proyecto2_CarrilloJose\Proyecto2_CarrilloJose\bin\Debug\Proyecto2_CarrilloJose.xml
+C:\Users\Carrillo\Desktop\Proyecto2_CarrilloJose\Proyecto2_CarrilloJose\obj\Debug\Proyecto2_CarrilloJose.Cargar_Palabras.resources
+C:\Users\Carrillo\Desktop\Proyecto2_CarrilloJose\Proyecto2_CarrilloJose\obj\Debug\Proyecto2_CarrilloJose.Juego.resources
+C:\Users\Carrillo\Desktop\Proyecto2_CarrilloJose\Proyecto2_CarrilloJose\obj\Debug\Proyecto2_CarrilloJose.Proyecto.resources
+C:\Users\Carrillo\Desktop\Proyecto2_CarrilloJose\Proyecto2_CarrilloJose\obj\Debug\Proyecto2_CarrilloJose.Resources.resources
+C:\Users\Carrillo\Desktop\Proyecto2_CarrilloJose\Proyecto2_CarrilloJose\obj\Debug\Proyecto2_CarrilloJose.vbproj.GenerateResource.Cache
+C:\Users\Carrillo\Dropbox\Univerdad Catolica\Tareas\II Cuatri\Programacion I\Proyecto2_CarrilloJose\Proyecto2_CarrilloJose\bin\Debug\Proyecto2_CarrilloJose.exe.config
+C:\Users\Carrillo\Dropbox\Univerdad Catolica\Tareas\II Cuatri\Programacion I\Proyecto2_CarrilloJose\Proyecto2_CarrilloJose\obj\Debug\Proyecto2_CarrilloJose.exe
+C:\Users\Carrillo\Dropbox\Univerdad Catolica\Tareas\II Cuatri\Programacion I\Proyecto2_CarrilloJose\Proyecto2_CarrilloJose\obj\Debug\Proyecto2_CarrilloJose.xml
+C:\Users\Carrillo\Dropbox\Univerdad Catolica\Tareas\II Cuatri\Programacion I\Proyecto2_CarrilloJose\Proyecto2_CarrilloJose\obj\Debug\Proyecto2_CarrilloJose.pdb
